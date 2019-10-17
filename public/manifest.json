@@ -1,0 +1,15 @@
+{
+ "short_name": "pwaadl2",
+ "name": "PWA ADL 2.0",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "teal",
+ "theme_color": "#000",
+ "icons": [
+   {
+     "src": "img/rosa.png",
+     "sizes": "1024x1024",
+     "type": "image/png"
+   }
+ ]
+}
